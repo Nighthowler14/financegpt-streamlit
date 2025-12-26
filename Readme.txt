@@ -1,0 +1,5 @@
+streamlit>=1.32.0
+google-generativeai>=0.5.0
+yfinance>=0.2.40
+pandas>=2.0.0
+plotly>=5.20.0
